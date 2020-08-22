@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as software developer
+- 🌱 I’m currently learning reverse engineering & artificial intelligence
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: ...soon
+- ⚡ Programming languages: C++, C#, Java, Python
+- ⚡ Tools: Visual Studio, VS code, IntelliJ IDEA
+
 <!--
 **pongmadee/pongmadee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
